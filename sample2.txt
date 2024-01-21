@@ -1,0 +1,7 @@
+AWS 
+Linux 
+Shell Scrpting 
+Docker 
+K8s 
+GIT 
+GITHUB
